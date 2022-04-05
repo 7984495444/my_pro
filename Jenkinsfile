@@ -8,7 +8,7 @@ pipeline {
     }
     stage('git clone') {
       steps {
-        git branch: 'main', url: 'https://github.com/harsha7979/demo1.git'
+        git branch: 'main', url: 'https://github.com/7984495444/my_pro.git'
       }
     }
   }
